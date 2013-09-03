@@ -30,15 +30,15 @@ Parfait Roumanie - small web agency take birth, first product being a national t
 __2009-present__ 
 i am fully focusing on programming, __Haskell__ being the main language, __Html__, __Css__, __JS__, along with databases like __MongoDB__, __Redis__ and __ElasticSearch__ not being foreign.
 >more than 15000 hours of active coding in different enviroments
->starting with basic Wordpress, Html, Css for theme development moving to the core with PHP
->continuing with some development with and for Indexhibit, Cargocollective community and Stacey.
->collecting XML and JSON data, moving towards data mining with earthquakes, weather and volcanoes jumping to different API's like Github, DarkSky
->integrating coding in visual arts with Processing and Pure Data helped by Arduino microcontroller.
->touching Haskell and it's community, staying with it and learning programming.
->introduction to MongoDB, Redis and ElasticSearch along with other small but very effective MessagePack.
+>starting with basic __Wordpress__, __Html__, __Css__ for __theme development__ moving to the core with __PHP__
+>continuing with some development with and for __Indexhibit__, __Cargocollective__ community and __Stacey__.
+>collecting __XML__ and __JSON__ data, moving towards __data mining__ with earthquakes, weather and volcanoes jumping to different __APIs__ like __Github__, __DarkSky__
+>integrating coding in visual arts with __Processing__ and __Pure Data__ helped by __Arduino__ microcontroller.
+>touching __Haskell__ and it's community, staying with it and learning programming.
+>introduction to __MongoDB__, __Redis__ and __ElasticSearch__.
 
 __2012__
-worked in fundraising department in CREDIDAM, the Romanian Center for Performing Artists
+worked in fundraising department in [CREDIDAM], the Romanian Center for Performing Artists
 
 ##Education
 
@@ -56,3 +56,5 @@ __Dimitrie Cantemir University__ - Bucharest, __Touristic and Commercial Managem
 ![](Arduino_Uno_logo.png =75x52)
 
 Processing, Pure Data, Haskell, Github, Git, Arduino.
+
+[CREDIDAM]: http://credidam.ro/
