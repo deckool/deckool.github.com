@@ -42,9 +42,9 @@ worked in fundraising department in CREDIDAM, the Romanian Center for Performing
 
 ##Education
 
-Edmond Nicolau Technical College - Bucharest, graduated with Electronist Technician degree.
+__Edmond Nicolau Technical College__ - Bucharest, graduated with __Electronist Technician__ degree.
 
-Dimitrie Cantemir University - Bucharest, Touristic and Commercial Management.
+__Dimitrie Cantemir University__ - Bucharest, __Touristic and Commercial Management__.
 
 ##Known technologies
 
