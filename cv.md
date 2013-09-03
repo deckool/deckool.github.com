@@ -12,24 +12,32 @@ I am fluent in english, having basic knowledge of french and italian, my native 
 
 For the last 4 years and still counting i am a freelancer in web architecture and development, participating in various projects.
 
-1998 - present
+__1998 - present__
 Member of alpine club Carpatic, participating in organizing mountain adventures and trails.
 
-2005 - 2007
+__2005 - 2007__
 Colaborate with few travel agencies on management of business growth.
 
-2008-2009
+__2008-2009__
 Teambuilding manager with Topteambuilding
 >contract negociator and direct working with big romanian corporations.
 >,outdoor activities providers (cayac, rafting, ziplines, guides) along with hotels and transportation.
 
-2009 
+__2009__ 
 Parfait Roumanie - small web agency take birth, first product being a national travel magazine.
 >work involved include informations gathering, data mining, logistics, translating, the main domains being fashion, cosmetics and leisure industries.
 
-From 2009 i am fully focusing on programming, Haskell being the main language, Html, Css, JS, along with databases like MongoDB, Redis and ElasticSearch not being foreign.
+__2009-present__ 
+i am fully focusing on programming, __Haskell__ being the main language, __Html__, __Css__, __JS__, along with databases like __MongoDB__, __Redis__ and __ElasticSearch__ not being foreign.
+>more than 15000 hours of active coding in different enviroments
+>starting with basic Wordpress, Html, Css for theme development moving to the core with PHP
+>continuing with some development with and for Indexhibit, Cargocollective community and Stacey.
+>collecting XML and JSON data, moving towards data mining with earthquakes, weather and volcanoes jumping to different API's like Github, DarkSky
+>integrating coding in visual arts with Processing and Pure Data helped by Arduino microcontroller.
+>touching Haskell and it's community, staying with it and learning programming.
+>introduction to MongoDB, Redis and ElasticSearch along with other small but very effective MessagePack.
 
-2012
+__2012__
 worked in fundraising department in CREDIDAM, the Romanian Center for Performing Artists
 
 ##Education
