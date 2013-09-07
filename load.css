@@ -24,3 +24,7 @@ img[alt="deck"]:hover
 	transition: all 0.5s ease;
 	border-radius:0;
 }
+
+blockquote {
+	font-size:12px;
+}

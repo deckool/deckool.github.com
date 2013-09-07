@@ -33,12 +33,13 @@ Teambuilding manager with [Topteambuilding]
 __2009__ 
 
 Parfait Roumanie - small web agency took birth, first product being a national travel magazine.
->__Project manager__ on Faraway magazine,
+>__Project manager__ on Faraway magazine
+
 >__Responsibilities__: informations gathering, data mining, logistics, translating, the main domains being fashion, cosmetics and leisure industries.
 
 __2009-present__ 
 
-__UI/UX design__, __web server side programming__
+__UI/UX design__, __web oriented server side programming__
 
 It all began few years earlier with my first Linux installation, digging shell scripts, managing small web networks starting with Apache, PHP and MySql those days, gaining basic knowledge on these technologies, moving slowly to UI/UX design where i stayed from since.
 
@@ -51,6 +52,7 @@ now i am fully focusing on __programming__ and __UI/UX design__, integrating bot
 >touching __Haskell__ and it's community, staying with it and learning programming.
 >introduction to __MongoDB__, __Redis__ and __ElasticSearch__.
 >started to share code and make use of Git and Mercurial. Also, there is no lack on knowing other version control systems like Darcs.
+>Developing technologies for writing and quick blogging. Embedding Markdown parsers and teaching Markdown.
 
 __2012__
 
