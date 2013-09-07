@@ -1,5 +1,8 @@
 ->Decebal Popa<-
- 
+
+> %avatar%
+> ![deck](http://gravatar.com/avatar/d9804a923910b29d5b59540e6d42ed6e?s=150 "avatar")
+
 ##Summary
 
 I am a programmer with a lot of experience in media (online, print), events management, travel and open source technologies, working randomly in these fields for the last 10 years.

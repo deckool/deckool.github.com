@@ -4,3 +4,13 @@ body {
 	font-size:14px;
 	line-height:1.5;
 }
+
+.avatar {text-align:center;}
+
+img[title="avatar"]
+{
+ width            : 150px;
+ height           : 150px;
+ margin           : 0px auto 0px auto;
+ border-radius    : 50%;
+}
