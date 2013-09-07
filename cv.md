@@ -13,22 +13,29 @@ I am fluent in english, having basic knowledge of french and italian, my native 
 For the last 4 years and still counting i am a freelancer in web architecture and development, participating in various projects.
 
 __1998 - present__
+
 Member of alpine club Carpatic, participating in organizing mountain adventures and trails.
 
 __2005 - 2007__
+
 Colaborate with few travel agencies on management of business growth.
 
 __2008-2009__
-Teambuilding manager with Topteambuilding
->contract negociator and direct working with big romanian corporations.
+
+Teambuilding manager with [Topteambuilding]
+>contract negociator and direct working with international organizations.
 >,outdoor activities providers (cayac, rafting, ziplines, guides) along with hotels and transportation.
+>managing big databases of touristic service providers mainly romanians, italians and bulgarians.
 
 __2009__ 
-Parfait Roumanie - small web agency take birth, first product being a national travel magazine.
->work involved include informations gathering, data mining, logistics, translating, the main domains being fashion, cosmetics and leisure industries.
+
+Parfait Roumanie - small web agency took birth, first product being a national travel magazine.
+>__Project manager__ on Faraway magazine,
+>__Responsibilities__: informations gathering, data mining, logistics, translating, the main domains being fashion, cosmetics and leisure industries.
 
 __2009-present__ 
-i am fully focusing on programming, __Haskell__ being the main language, __Html__, __Css__, __JS__, along with databases like __MongoDB__, __Redis__ and __ElasticSearch__ not being foreign.
+
+i am fully focusing on programming, __Haskell__ being the main language, __Html__, __Css__, __JS__[^1], along with databases like __MongoDB__, __Redis__ and __ElasticSearch__ not being foreign.
 >more than 15000 hours of active coding in different enviroments
 >starting with basic __Wordpress__, __Html__, __Css__ for __theme development__ moving to the core with __PHP__
 >continuing with some development with and for __Indexhibit__, __Cargocollective__ community and __Stacey__.
@@ -38,6 +45,7 @@ i am fully focusing on programming, __Haskell__ being the main language, __Html_
 >introduction to __MongoDB__, __Redis__ and __ElasticSearch__.
 
 __2012__
+
 worked in fundraising department in [CREDIDAM], the Romanian Center for Performing Artists
 
 ##Education
@@ -57,4 +65,7 @@ __Dimitrie Cantemir University__ - Bucharest, __Touristic and Commercial Managem
 
 Processing, Pure Data, Haskell, Github, Git, Arduino.
 
+[Topteambuilding]: http://www.topteambuilding.ro/
 [CREDIDAM]: http://credidam.ro/
+
+[^1]: Implementing plugins, maps, web frameworks. Keeping it simple!
