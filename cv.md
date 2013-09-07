@@ -1,11 +1,11 @@
 ->Decebal Popa<-
 
 > %avatar%
-> ![deck](http://gravatar.com/avatar/d9804a923910b29d5b59540e6d42ed6e?s=150 "avatar")
+> ![deck](http://gravatar.com/avatar/d9804a923910b29d5b59540e6d42ed6e?s=150)
 
 ##Summary
 
-I am a programmer with a lot of experience in media (online, print), events management, travel and open source technologies, working randomly in these fields for the last 10 years.
+I am a programmer with experience in media (online, print), events management, travel and open source technologies, working randomly in these fields for the last 10 years.
 I am fluent in english, having basic knowledge of french and italian, my native language being romanian.
 
 <deckool@gmail.com>
@@ -26,8 +26,8 @@ Colaborate with few travel agencies on management of business growth.
 __2008-2009__
 
 Teambuilding manager with [Topteambuilding]
->contract negociator and direct working with international organizations.
->,outdoor activities providers (cayac, rafting, ziplines, guides) along with hotels and transportation.
+>contract negotiator and direct working with international organizations.
+>,outdoor activities providers (kayak, rafting, zip-line, guides) along with hotels and transportation.
 >managing big databases of touristic service providers mainly romanians, italians and bulgarians.
 
 __2009__ 
@@ -38,18 +38,23 @@ Parfait Roumanie - small web agency took birth, first product being a national t
 
 __2009-present__ 
 
-i am fully focusing on programming, __Haskell__ being the main language, __Html__, __Css__, __JS__[^1], along with databases like __MongoDB__, __Redis__ and __ElasticSearch__ not being foreign.
->more than 15000 hours of active coding in different enviroments
->starting with basic __Wordpress__, __Html__, __Css__ for __theme development__ moving to the core with __PHP__
+__UI/UX design__, __web server side programming__
+
+It all began few years earlier with my first Linux installation, digging shell scripts, managing small web networks starting with Apache, PHP and MySql those days, gaining basic knowledge on these technologies, moving slowly to UI/UX design where i stayed from since.
+
+now i am fully focusing on __programming__ and __UI/UX design__, integrating both in various applications, __Haskell__[^1] being the main language, __Html__[^2], __Css__[^3], __JS__[^4], along with databases like __MongoDB__, __Redis__ and __ElasticSearch__ not being foreign.
+>more than 15000 hours of active coding in different environments
+>starting with basic __Wordpress__[^5], __Html__, __Css__ for __theme development__ moving to the core with __PHP__[^6]
 >continuing with some development with and for __Indexhibit__, __Cargocollective__ community and __Stacey__.
->collecting __XML__ and __JSON__ data, moving towards __data mining__ with earthquakes, weather and volcanoes jumping to different __APIs__ like __Github__, __DarkSky__
+>collecting __XML__[^7] and __JSON__[^8] data, moving towards __data mining__ with earthquakes, weather and volcanoes jumping to different __APIs__ like __Github__, __DarkSky__
 >integrating coding in visual arts with __Processing__ and __Pure Data__ helped by __Arduino__ microcontroller.
 >touching __Haskell__ and it's community, staying with it and learning programming.
 >introduction to __MongoDB__, __Redis__ and __ElasticSearch__.
+>started to share code and make use of Git and Mercurial. Also, there is no lack on knowing other version control systems like Darcs.
 
 __2012__
 
-worked in fundraising department in [CREDIDAM], the Romanian Center for Performing Artists
+worked in economic - fundraising department in [CREDIDAM], the Romanian Center for Performing Artists
 
 ##Education
 
@@ -71,4 +76,11 @@ Processing, Pure Data, Haskell, Github, Git, Arduino.
 [Topteambuilding]: http://www.topteambuilding.ro/
 [CREDIDAM]: http://credidam.ro/
 
-[^1]: Implementing plugins, maps, web frameworks. Keeping it simple!
+[^1]: __Haskell__: Web applications programming with integrated HTML, CSS and Javascript apps.
+[^2]: __Html__: Web architecture from scratch.
+[^3]: __Css__: Website design, responsive and simple, focusing on cross browser and cross devices aspect.
+[^4]: __Javascript__: Implementing plugins, maps, web frameworks. Keeping it simple!
+[^5]: __Wordpress__: Theme development, plugin interaction 
+[^6]: __PHP__: Beginner+ level mostly around frameworks like Wordpress, Indexhibit, Stacey and Cargo.
+[^7]: __XML__: Good understanding of this cross servers technology, building parsers and interpreters, making usage of collected data.
+[^8]: __JSON__: Knowledge on this native Javascript data format, building parsers and interpreters.
