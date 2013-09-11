@@ -39,7 +39,7 @@ Parfait Roumanie - small web agency took birth, first product being a national t
 
 __2009-present__ 
 
-__UI/UX design__, __web oriented server side programming__
+__UI/UX design__, __web oriented server side programming__, writing blog engines, CMSs, frontends/backends, personalized web apps from scratch.
 
 It all began few years earlier with my first Linux installation, digging shell scripts, managing small web networks starting with Apache, PHP and MySql those days, gaining basic knowledge on these technologies, moving slowly to UI/UX design where i stayed from since.
 
@@ -58,6 +58,17 @@ __2012__
 
 worked in economic - fundraising department in [CREDIDAM], the Romanian Center for Performing Artists
 
+##Related work
+
+[Small __REST__ API] just to demonstrate my Haskell skills. The engine is written in pure Haskell and on some calls like "new/123" it returns some status true or false. It is also user-fault proof, you can not enter letters instead of numbers and so on. For more please write me as i am working on improving it. 
+>Written in pure __haskell__, designed for a __tic-tac-toe game server-side__, deployed over __Heroku__ using __git__.
+
+[Organicorange] is a wrapper around the __Github__ using repositories to form a blog.
+>Based on __Snapframework__, a nice web framework written in Haskell, using __Markdown__ parsing, __Github API__ for programmatic gathering needed data. The forms are also over an numbers recognition program used for memberships based on cards or invitations for loging. It takes 16 numbers grouped 4 x 4 (you know the style) and it makes internal connections to find about the user. You can __play__ now, the numbers list is empty.
+
+[Grooveyourself] is a work in progress static blog engine written in Haskell using the great __Snapframework__ that takes specific __markdown__ files, folders and content and it returns in HTML form.
+>browsing it you will find my work in progress portfolio growing.
+
 ##Education
 
 __Edmond Nicolau Technical College__ - Bucharest, graduated with __Electronist Technician__ degree.
@@ -75,6 +86,9 @@ __Dimitrie Cantemir University__ - Bucharest, __Touristic and Commercial Managem
 
 Processing, Pure Data, Haskell, Github, Git, Arduino.
 
+[Grooveyourself]: http://grooveyourself.ro/groove/
+[Organicorange]: http://organicorange.ro/
+[Small __REST__ API]: http://safe-stream-5934.herokuapp.com/
 [Topteambuilding]: http://www.topteambuilding.ro/
 [CREDIDAM]: http://credidam.ro/
 
