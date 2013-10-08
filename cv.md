@@ -69,9 +69,22 @@ worked in economic - fundraising department in [CREDIDAM], the Romanian Center f
 [Grooveyourself] is a work in progress static blog engine written in Haskell using the great __Snapframework__ that takes specific __markdown__ files, folders and content and it returns in HTML form.
 >browsing it you will find my work in progress portfolio growing.
 
+[This very CV] is a Haskell markdown interpreter using [Discount] for doing this.
+
+[Vanilinated-todo] is a plain javascript implementation of a todo list using local storage for persistance.
+
+
 ##Education
 
 __Edmond Nicolau Technical College__ - Bucharest, graduated with __Electronist Technician__ degree.
+
++ Teamwork
++ Work related safety measures and environment protection
++ Applying quality methods
++ Assemble/disassemble electronic hardware of any kind
++ Measurements using appropriate methods in electronics and automation devices
++ Quality maintenance of AV / electronic devices as mentioned in technical documentation
++ Organizing and supervising technological processes in electronics and automation
 
 __Dimitrie Cantemir University__ - Bucharest, __Touristic and Commercial Management__.
 
@@ -89,6 +102,9 @@ Processing, Pure Data, Haskell, Github, Git, Arduino.
 [Grooveyourself]: http://grooveyourself.ro/groove/
 [Organicorange]: http://organicorange.ro/
 [Small __REST__ API]: http://safe-stream-5934.herokuapp.com/
+[This very CV]: https://github.com/deckool/deckool.github.io/
+[Discount]: http://www.pell.portland.or.us/~orc/Code/discount/
+[Vanilinated-todo]: https://github.com/deckool/vanilinated-todo/
 [Topteambuilding]: http://www.topteambuilding.ro/
 [CREDIDAM]: http://credidam.ro/
 
