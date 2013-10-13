@@ -104,7 +104,7 @@ Processing, Pure Data, Haskell, Github, Git, Arduino.
 [Small __REST__ API]: http://safe-stream-5934.herokuapp.com/
 [This very CV]: https://github.com/deckool/deckool.github.io/
 [Discount]: http://www.pell.portland.or.us/~orc/Code/discount/
-[Vanilinated-todo]: https://github.com/deckool/vanilinated-todo/
+[Vanilinated-todo]: http://deckool.github.io/vanilinated-todo/
 [Topteambuilding]: http://www.topteambuilding.ro/
 [CREDIDAM]: http://credidam.ro/
 
