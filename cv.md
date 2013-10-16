@@ -54,7 +54,7 @@ now i am fully focusing on __programming__ and __UI/UX design__, integrating bot
 >started to share code and make use of Git and Mercurial. Also, there is no lack on knowing other version control systems like Darcs.
 >Developing technologies for writing and quick blogging. Embedding Markdown parsers and teaching Markdown.
 
-__Data porn, mining and visualization__ with high level __API's__ (geo data, meteo, social networks, Haskell, Javascript, D3.js, chart.js, Google maps, OSMaps, CSV, databases)
+__Data mining and visualization__ with high level __API's__ (geo data, meteo, social networks, Haskell, Javascript, D3.js, chart.js, Google maps, OSMaps, CSV, databases)
 
 __2012__
 
