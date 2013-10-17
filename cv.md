@@ -68,9 +68,6 @@ worked in economic - fundraising department in [CREDIDAM], the Romanian Center f
 [Organicorange] is a wrapper around the __Github__ using repositories to form a blog.
 >Based on __Snapframework__, a nice web framework written in Haskell, using __Markdown__ parsing, __Github API__ for programmatic gathering needed data. The forms are also over an numbers recognition program used for memberships based on cards or invitations for loging. It takes 16 numbers grouped 4 x 4 (you know the style) and it makes internal connections to find about the user. You can __play__ now, the numbers list is empty.
 
-[Grooveyourself] is a work in progress static blog engine written in Haskell using the great __Snapframework__ that takes specific __markdown__ files, folders and content and it returns in HTML form.
->browsing it you will find my work in progress portfolio growing.
-
 [This very CV] is a Haskell markdown interpreter using [Discount] for doing this.
 
 [Vanilinated-todo] is a plain javascript implementation of a todo list using local storage for persistance.
@@ -101,7 +98,6 @@ __Dimitrie Cantemir University__ - Bucharest, __Touristic and Commercial Managem
 
 Processing, Pure Data, Haskell, Github, Git, Arduino.
 
-[Grooveyourself]: http://grooveyourself.ro/groove/
 [Organicorange]: http://organicorange.ro/
 [Small __REST__ API]: http://safe-stream-5934.herokuapp.com/
 [This very CV]: https://github.com/deckool/deckool.github.io/
@@ -112,8 +108,8 @@ Processing, Pure Data, Haskell, Github, Git, Arduino.
 
 [^1]: __Haskell__: Web applications programming with integrated HTML, CSS and Javascript apps.
 [^2]: __Html__: Web architecture from scratch.
-[^3]: __Css__: Website design, responsive and simple, focusing on cross browser and cross devices aspect.
-[^4]: __Javascript__: Implementing plugins, maps, web frameworks. Keeping it simple!
+[^3]: __Css__: Website design, responsive and simple, focusing on cross browser and cross devices aspect. (__Less__,__Sass__,__Clay__,__Stylus__)
+[^4]: __Javascript__: Implementing plugins, maps, web frameworks. Keeping it simple! (__Angular__,__Chart__,__Jquery__)
 [^5]: __Wordpress__: Theme development, plugin interaction 
 [^6]: __PHP__: Beginner+ level mostly around frameworks like Wordpress, Indexhibit, Stacey and Cargo.
 [^7]: __XML__: Good understanding of this cross servers technology, building parsers and interpreters, making usage of collected data.

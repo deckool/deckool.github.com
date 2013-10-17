@@ -18,6 +18,7 @@ draw p = docTypeHtml $ do
         link ! rel "stylesheet" ! href "http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" ! type_ "text/css" 
         link ! rel "stylesheet" ! href "load.css"
     body $ do
+        a ! href "javascript:window.print()" $ "print it!"
         (preEscapedToHtml p)
 
 main = do
