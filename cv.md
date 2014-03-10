@@ -10,6 +10,7 @@ I am fluent in english, having basic knowledge of french and italian, my native 
 
 <deckool@gmail.com>
 <deckool@hush.com>
+<deckool@scramble.io>
 
 ##Work experience
 
