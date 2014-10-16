@@ -33,3 +33,24 @@ a {
 	text-decoration:none;
 	color:#0066ff;
 }
+
+:target {
+    -webkit-animation: target-fade 3s 1;
+    -moz-animation: target-fade 3s 1;
+}
+
+@-webkit-keyframes target-fade {
+/*    0% { background-color: rgba(102, 51, 153,.3); }
+    100% { background-color: rgba(102, 51, 153,0); }
+    */
+    0% {color:#000; }
+    100% {color:#ff0033;}
+}
+
+@-moz-keyframes target-fade {
+/*    0% { background-color: rgba(102, 51, 153,.3); }
+    100% { background-color: rgba(102, 51, 153,0); }
+	*/
+    0% {color:#000; }
+    100% {color:#ff0033;}
+}

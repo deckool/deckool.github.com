@@ -9,6 +9,33 @@ import qualified Data.ByteString.Char8 as D
 import           Text.Discount
 import           System.Directory
 
+import           Control.Monad.IO.Class
+import           Control.Applicative
+import           Snap.Core
+import           Snap.Util.FileServe
+import           Snap.Http.Server
+
+main :: IO ()
+main = do
+    httpServe (setPort 8003 config) site
+        where
+         config =
+             setErrorLog  ConfigNoLog $
+             setAccessLog ConfigNoLog $
+             defaultConfig
+
+site :: Snap ()
+site =
+    ifTop xxx <|>
+    route [ ("foo", writeBS "bar")
+          ] <|>
+    Snap.Core.dir "static" (serveDirectory ".")
+
+xxx :: Snap ()
+xxx = do
+   modifyResponse $ addHeader "Server" "One"
+   md <- liftIO $ readFile "test.html"
+   writeLBS $ C.pack md
 
 draw p = docTypeHtml $ do
     head $ do
@@ -21,7 +48,8 @@ draw p = docTypeHtml $ do
         a ! href "javascript:window.print()" $ "print it!"
         (preEscapedToHtml p)
 
-main = do
-  md <- readFile "cv.md"
+sane = do
+--  md <- readFile "cv.md"
+  md <- readFile "test.md"
   let parsed = parseMarkdown compatOptions $ D.pack md
-  C.writeFile "index.html" (renderHtml $ draw $ D.unpack parsed)
+  C.writeFile "test.html" (renderHtml $ draw $ D.unpack parsed)
