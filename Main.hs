@@ -34,7 +34,7 @@ site =
 xxx :: Snap ()
 xxx = do
    modifyResponse $ addHeader "Server" "One"
-   md <- liftIO $ readFile "test.html"
+   md <- liftIO $ readFile "index.html"
    writeLBS $ C.pack md
 
 draw p = docTypeHtml $ do
@@ -49,7 +49,7 @@ draw p = docTypeHtml $ do
         (preEscapedToHtml p)
 
 sane = do
---  md <- readFile "cv.md"
-  md <- readFile "test.md"
+  md <- readFile "cv.md"
+--  md <- readFile "test.md"
   let parsed = parseMarkdown compatOptions $ D.pack md
-  C.writeFile "test.html" (renderHtml $ draw $ D.unpack parsed)
+  C.writeFile "index.html" (renderHtml $ draw $ D.unpack parsed)
