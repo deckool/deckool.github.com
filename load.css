@@ -7,7 +7,8 @@ body {
 
 .orbitron {
 	font-family: 'Orbitron', sans-serif;
-	font-weight:bold;
+	font-size:16px;
+	letter-spacing: 2px;
 }
 
 .avatar {text-align:center;}
