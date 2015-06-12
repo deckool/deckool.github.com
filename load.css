@@ -5,6 +5,11 @@ body {
 	line-height:1.5;
 }
 
+.orbitron {
+	font-family: 'Orbitron', sans-serif;
+	font-weight:bold;
+}
+
 .avatar {text-align:center;}
 
 img[alt="deck"]
