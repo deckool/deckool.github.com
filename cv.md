@@ -76,7 +76,7 @@ fullstack developer in online marketing at [Mediageckos]
 
 __2015__
 
-fullstack developer
+fullstack developer at [Code11]
 >NodeJs, AngularJs, Bunyan, MongoDb
 >FB, Vine, Twitter APIS
 
@@ -126,6 +126,7 @@ Processing, Pure Data, Haskell, Github, Git, Arduino.
 [Topteambuilding]: http://www.topteambuilding.ro/
 [CREDIDAM]: http://credidam.ro/
 [Mediageckos]: http://www.mediageckos.com/
+[Code11]: http://code11.com/
 
 [^1]: __Haskell__: Web applications programming with integrated HTML, CSS and Javascript apps.
 [^2]: __Html__: Web architecture from scratch.
