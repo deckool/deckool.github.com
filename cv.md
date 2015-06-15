@@ -61,6 +61,25 @@ __2012__
 
 worked in economic - fundraising department in [CREDIDAM], the Romanian Center for Performing Artists
 
+__late 2013__
+
+started with NodeJs
+>Mongodb, redis, jade, system check automation
+
+__2014__
+
+fullstack developer in online marketing at [Mediageckos]
+>full funnel creation and detection
+>visitors/customers tracking
+>SEO, Google analytics, custom analytics
+>redirect SAS creation
+
+__2015__
+
+fullstack developer
+>NodeJs, AngularJs, Bunyan, MongoDb
+>FB, Vine, Twitter APIS
+
 ##Related work
 
 [Small __REST__ API] just to demonstrate my Haskell skills. The engine is written in pure Haskell and on some calls like "new/123" it returns some status true or false. It is also user-fault proof, you can not enter letters instead of numbers and so on. For more please write me as i am working on improving it. 
@@ -106,6 +125,7 @@ Processing, Pure Data, Haskell, Github, Git, Arduino.
 [Vanilinated-todo]: http://deckool.github.io/vanilinated-todo/
 [Topteambuilding]: http://www.topteambuilding.ro/
 [CREDIDAM]: http://credidam.ro/
+[Mediageckos]: http://www.mediageckos.com/
 
 [^1]: __Haskell__: Web applications programming with integrated HTML, CSS and Javascript apps.
 [^2]: __Html__: Web architecture from scratch.

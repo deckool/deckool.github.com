@@ -53,3 +53,4 @@ sane = do
 --  md <- readFile "test.md"
   let parsed = parseMarkdown compatOptions $ D.pack md
   C.writeFile "index.html" (renderHtml $ draw $ D.unpack parsed)
+  print "done"
