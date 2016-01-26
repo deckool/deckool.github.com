@@ -78,6 +78,11 @@ fullstack developer at [Code11]
 >NodeJs, AngularJs, Bunyan, MongoDb
 >FB, Vine, Twitter APIS
 
+__2015 - present__
+
+frontent developer at [BPO Consulting](class:greenish)
+>AngulaJs, Cq5, Dojo
+
 ##Related work
 
 [Small __REST__ API] just to demonstrate my Haskell skills. The engine is written in pure Haskell and on some calls like "new/123" it returns some status true or false. It is also user-fault proof, you can not enter letters instead of numbers and so on. For more please write me as i am working on improving it. 
@@ -127,6 +132,7 @@ Processing, Pure Data, Haskell, Github, Git, Arduino.
 [CREDIDAM]: http://credidam.ro/
 [Mediageckos]: http://www.mediageckos.com/
 [Code11]: http://code11.com/
+[BPO Consulting] : 
 
 [^1]: __Haskell__: Web applications programming with integrated HTML, CSS and Javascript apps.
 [^2]: __Html__: Web architecture from scratch.
