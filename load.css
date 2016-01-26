@@ -3,6 +3,17 @@ body {
 	font-weight:300;
 	font-size:14px;
 	line-height:1.5;
+	color: #888800;
+}
+
+h1, h2, h3 {
+    color: #00a86b;
+}
+
+::selection {
+    background: #edd900;
+    text-shadow: none;
+    color: black;
 }
 
 .redish , .redish strong {
@@ -41,7 +52,8 @@ blockquote {
 
 a {
 	text-decoration:none;
-	color:#0066ff;
+	/*color:#0066ff;*/
+	color: #800080;
 }
 
 :target {
