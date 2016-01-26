@@ -5,6 +5,10 @@ body {
 	line-height:1.5;
 }
 
+.redish , .redish strong {
+	color:#ff0033;
+}
+
 .orbitron {
 	font-family: 'Orbitron', sans-serif;
 	font-size:16px;

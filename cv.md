@@ -9,8 +9,6 @@ I am a programmer with experience in media (online, print), events management, t
 I am fluent in english, having basic knowledge of french and italian, my native language being romanian.
 
 <deckool@gmail.com>
-<deckool@hush.com>
-<deckool@scramble.io>
 
 ##Work experience
 
@@ -106,6 +104,8 @@ __Edmond Nicolau Technical College__ - Bucharest, graduated with __Electronist T
 + Organizing and supervising technological processes in electronics and automation
 
 __Dimitrie Cantemir University__ - Bucharest, __Touristic and Commercial Management__.
+
++ [**not finished**](class:redish)
 
 ##Known technologies
 
