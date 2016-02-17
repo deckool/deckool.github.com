@@ -21,10 +21,13 @@ Member of alpine club Carpatic, participating in organizing mountain adventures 
 __2005 - 2007__
 
 Colaborate with few travel agencies on management of business growth.
+__PR exec__
+>Presentation websites (Html, Css, PHP, Sql)
+>Organizing events and tours for product release and networking
 
 __2008-2009__
 
-Teambuilding manager with [Topteambuilding]
+Teambuilding manager (PR exec) with [Topteambuilding]
 >contract negotiator and direct working with international organizations.
 >,outdoor activities providers (kayak, rafting, zip-line, guides) along with hotels and transportation.
 >managing big databases of touristic service providers mainly romanians, italians and bulgarians.
@@ -40,7 +43,7 @@ __2009-present__
 
 __UI/UX design__, __web oriented server side programming__, writing blog engines, CMSs, frontends/backends, personalized web apps from scratch.
 
-It all began few years earlier with my first Linux installation, digging shell scripts, managing small web networks starting with Apache, PHP and MySql those days, gaining basic knowledge on these technologies, moving slowly to UI/UX design where i stayed from since.
+Small web networks starting with Apache, PHP and MySql those days, gaining basic knowledge on these technologies, moving slowly to UI/UX design where i stayed from since.
 
 now i am fully focusing on __programming__ and __UI/UX design__, integrating both in various applications, __Haskell__[^1] being the main language, __Html__[^2], __Css__[^3], __JS__[^4], along with databases like __MongoDB__, __Redis__ and __ElasticSearch__ not being foreign.
 >more than 15000 hours of active coding in different environments
@@ -53,7 +56,7 @@ now i am fully focusing on __programming__ and __UI/UX design__, integrating bot
 >started to share code and make use of Git and Mercurial. Also, there is no lack on knowing other version control systems like Darcs.
 >Developing technologies for writing and quick blogging. Embedding Markdown parsers and teaching Markdown.
 
-__Data mining and visualization__ with high level __API's__ (geo data, meteo, social networks, Haskell, Javascript, D3.js, chart.js, Google maps, OSMaps, CSV, databases)
+__Data mining and visualization__ with high level __API's__ (geo data, meteo, social networks, Haskell, Javascript, D3.js, chart.js, Google maps, CSV, databases)
 
 __2012__
 
@@ -71,25 +74,29 @@ fullstack developer in online marketing at [Mediageckos]
 >visitors/customers tracking
 >SEO, Google analytics, custom analytics
 >redirect SAS creation
+>__Html, Css, PHP, Haskell, csv, json, xml, mySql__
 
 __2015__
 
 fullstack developer at [Code11]
->NodeJs, AngularJs, Bunyan, MongoDb
->FB, Vine, Twitter APIS
+>__NodeJs, AngularJs, Bunyan, MongoDb__
+>__FB, Vine, Twitter APIs__
+
++ news agregator for one person (gathers all posts on most soacial networks -FB, Vine, Twitter, Flickr- for a specified user and present them on a page as a timeline) __NodeJs, AngularJs, social network APIs__
+
++ fidellity software for automotive industry __NodeJs, AngularJs, Gulp, MongoDb, Websockets__
 
 __2015 - present__
 
 frontent developer at [BPO Consulting](class:greenish)
 >AngulaJs, Cq5, Dojo
 
++ Internet banking software for Unicredit Bank __AngularJs, Thymeleaf, Dojo, Adobe CQ5, Html, Css__
+
 ##Related work
 
 [Small __REST__ API] just to demonstrate my Haskell skills. The engine is written in pure Haskell and on some calls like "new/123" it returns some status true or false. It is also user-fault proof, you can not enter letters instead of numbers and so on. For more please write me as i am working on improving it. 
 >Written in pure __haskell__, designed for a __tic-tac-toe game server-side__, deployed over __Heroku__ using __git__.
-
-[Organicorange] is a wrapper around the __Github__ using repositories to form a blog.
->Based on __Snapframework__, a nice web framework written in Haskell, using __Markdown__ parsing, __Github API__ for programmatic gathering needed data. The forms are also over an numbers recognition program used for memberships based on cards or invitations for loging. It takes 16 numbers grouped 4 x 4 (you know the style) and it makes internal connections to find about the user. You can __play__ now, the numbers list is empty.
 
 [This very CV] is a Haskell markdown interpreter using [Discount] for doing this.
 
@@ -110,7 +117,6 @@ __Edmond Nicolau Technical College__ - Bucharest, graduated with __Electronist T
 
 __Dimitrie Cantemir University__ - Bucharest, __Touristic and Commercial Management__.
 
-+ [**not finished**](class:redish)
 
 ##Known technologies
 
@@ -123,8 +129,7 @@ __Dimitrie Cantemir University__ - Bucharest, __Touristic and Commercial Managem
 
 Processing, Pure Data, Haskell, Github, Git, Arduino.
 
-[Organicorange]: http://organicorange.ro/
-[Small __REST__ API]: http://safe-stream-5934.herokuapp.com/
+[Small __REST__ API]: http://guarded-wave-6566.herokuapp.com/
 [This very CV]: https://github.com/deckool/deckool.github.io/
 [Discount]: http://www.pell.portland.or.us/~orc/Code/discount/
 [Vanilinated-todo]: http://deckool.github.io/vanilinated-todo/

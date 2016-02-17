@@ -1,7 +1,7 @@
 {-# LANGUAGE OverloadedStrings #-}
 
 import           Prelude hiding (head, div)
-import           Text.Blaze.Html5
+import           Text.Blaze.Html5 hiding (main)
 import           Text.Blaze.Html5.Attributes hiding (title,style)
 import           Text.Blaze.Html.Renderer.Utf8
 import qualified Data.ByteString.Lazy.Char8 as C
