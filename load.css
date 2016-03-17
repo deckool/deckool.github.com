@@ -36,6 +36,10 @@ img[alt="deck"]
 	border-radius    : 50%;
 }
 
+.avatar {
+	background-image: url('scaled.jpg');
+}
+
 img[alt="deck"]:hover
 {
 	-webkit-transition: all 0.5s ease;
@@ -44,6 +48,7 @@ img[alt="deck"]:hover
 	-ms-transition: all 0.5s ease;
 	transition: all 0.5s ease;
 	border-radius:0;
+	background-image: url('scaled.jpg');
 }
 
 blockquote {

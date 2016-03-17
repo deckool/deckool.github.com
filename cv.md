@@ -1,7 +1,6 @@
 ->Decebal Popa<-
 
 > %avatar%
-> ![deck](http://gravatar.com/avatar/d9804a923910b29d5b59540e6d42ed6e?s=150)
 
 ##Summary
 

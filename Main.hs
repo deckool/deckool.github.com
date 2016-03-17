@@ -37,7 +37,7 @@ xxx = do
    md <- liftIO $ readFile "index.html"
    writeLBS $ C.pack md
 
-draw p = docTypeHtml $ do
+draw p ga = docTypeHtml $ do
     head $ do
         title "Decebal Popa resume"
         meta ! httpEquiv "Content-Type" ! content "text/html;charset=UTF-8"
@@ -47,10 +47,11 @@ draw p = docTypeHtml $ do
     body $ do
         a ! href "javascript:window.print()" $ "print it!"
         (preEscapedToHtml p)
+        (preEscapedToHtml ga)
 
 sane = do
   md <- readFile "cv.md"
---  md <- readFile "test.md"
+  ga <- readFile "ga.js"
   let parsed = parseMarkdown compatOptions $ D.pack md
-  C.writeFile "index.html" (renderHtml $ draw $ D.unpack parsed)
+  C.writeFile "index.html" (renderHtml $ draw (D.unpack parsed) ga)
   print "done"
